@@ -10,8 +10,13 @@
     background-color: rgba(220, 220, 220, 0.664);
     font-size: 2vw;
 }
-
+/* margin  */
 .margin{
     margin-top: 15vh;
     margin-bottom: 10vh;
+}
+
+/* background  */
+.background{
+    background-color: #d8ebf5;
 }
