@@ -1,6 +1,12 @@
+/* register button  */
 .register{
     color: #289BDE;
     border-color: #289BDE;
     border: 1px solid;
     width: 100px;
+}
+
+.my-carousal-caption{
+    background-color: rgba(220, 220, 220, 0.219);
+    font-size: 2vw;
 }
